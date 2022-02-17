@@ -66,10 +66,7 @@
   .institucional__conteudo {
     width: 100%;
 
-    display: flex;
-    justify-content: space-between;
-
-    text-align: left;
+    text-align: center;
   }
 
   .institucional__video {
